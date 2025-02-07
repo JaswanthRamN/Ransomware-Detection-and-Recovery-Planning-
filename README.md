@@ -1,4 +1,3 @@
-# Ransomware-Detection-and-Recovery-Planning
 # 🛡️ Ransomware Detection and Recovery Planning  
 
 ## 📌 Overview  
